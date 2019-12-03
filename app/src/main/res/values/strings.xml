@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">티엔에스펀딩</string>
+    <string name="url">https://www.tnsfunding.com:8021</string>
+    <string name="domain">https://www.tnsfunding.com:8021</string>
+    <string name="url2">https://www.tnsfunding.com:8021/bbs/myaccount.php</string>
+    <string name="url3">https://www.tnsfunding.com:8021/bbs/mypage.php</string>
+</resources>
